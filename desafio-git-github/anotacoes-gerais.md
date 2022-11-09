@@ -87,6 +87,6 @@ Atividades e profissionais em nuvem privada
 
 Nuvem pública: amazon we services; google cloud platform; wmvare; azure; oracle.
 
-### Profissioanal de Cloud Computing
+### Profissional de Cloud Computing
 
 O profissional cloud computing é responsável pela infraestrutura da nuvem oferecida aos clientes. Mais do que desenhar sistemas ou ambientes TI, ele escolhe as tecnologias que serão usadas, quais operadores são mais interessantes, como as peças vão ser entregadas e, no fim, cuida do que foi construído.
